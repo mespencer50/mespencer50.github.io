@@ -1,16 +1,16 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Mary Ellen Spencer
 locale:           en_US
 logo:             # filename of a logo image that has been placed into your images directory
 # If using a Github User page (i.e. username.github.io) to host your site, delete the default url that is below.
 # url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Mary Ellen Spencer
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "I'm a librarian at The University of Oklahoma"
+  email: #mespencer@ou.edu
   twitter: #username
   facebook: #username
   instagram: #username
